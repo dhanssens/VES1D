@@ -1,5 +1,5 @@
 # VES1D
-Vertical electrical sounding 1D forward modeling
+Vertical electrical sounding 1D forward modeling  
 Created by Daan Hanssens  
 Contact Daan.Hanssens@UGent.be  
 
