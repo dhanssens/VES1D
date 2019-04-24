@@ -27,8 +27,8 @@ def forward(con, thick, ab2):
 
     References
     ----------
-	Ekinci, Y. L., Demirci, A., 2008. A Damped Least-Squares Inversion Program 
-	for the Interpretation of Schlumberger Sounding Curves, Journal of Applied Sciences, 8, 4070-4078.
+    Ekinci, Y. L., Demirci, A., 2008. A Damped Least-Squares Inversion Program 
+    for the Interpretation of Schlumberger Sounding Curves, Journal of Applied Sciences, 8, 4070-4078.
 	
     Koefoed, O., 1970. A fast method for determining the layer distribution from the raised
     kernel function in geoelectrical soundings, Geophysical Prospection, 18, 564-570.
